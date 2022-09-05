@@ -7,7 +7,7 @@
 * Fork this repository
 * Clone your forked repository
 * Add your scripts 
-* Create a pul request
+* Create a pull request
 * Star this repository
 * Wait for pull request to merge
 * Celebrate as we journey through the world of open source together
